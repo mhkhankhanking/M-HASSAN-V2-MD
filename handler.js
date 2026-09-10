@@ -1,8 +1,8 @@
 /**
  * Serialize Message
- * Created By ABZTECH
+ * Created By M-HASSAN 
  * Follow https://github.com/abrahamdw882
- * Whatsapp : https://whatsapp.com/channel/0029VaMGgVL3WHTNkhzHik3c
+ * Whatsapp : https://whatsapp.com/channel/0029VbCnedA8aKvCj93Lkq1r
  */
 
 const { downloadMediaMessage } = require('@whiskeysockets/baileys')
