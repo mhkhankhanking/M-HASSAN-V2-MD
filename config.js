@@ -1,7 +1,7 @@
 require('dotenv').config();
-global.sessionid = process.env.SESSION_ID || '';
-global.BOT_PREFIX = '.';
-global.owners = ['214302325760156@lid', '25770239992037@lid'];
-global.dev = ['233533763772@s.whatsapp.net','25770239992037@lid'];
-global.menuImage = 'https://i.ibb.co/5xRGprW0/IMG-20260907-WA0020-2.jpg';
-global.ownerName = 'abztech🇬🇭';
+global.sessionid = process.env.SESSION_ID || '{"noiseKey":{"private":{"type":"Buffer","data":"2FGBGL3H0qPzxYojtR7tHhfPXVfx8SErEWjqN/OdiXA="},"public":{"type":"Buffer","data":"R0nUmqRMJiz7qQEaJCewHgxVDaBLcXosEx7ffU8C3VM="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"YEkBeymLVTAwFw2Ybh4QRjKBfjavE6l9l8CGiTS5OmY="},"public":{"type":"Buffer","data":"AOydukqjQ9S4lf56VL7ZNGBkGzTj7vI3khymPms6AxQ="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"ONHLXAYElpXX7gVtKP/PFv5CrIBfqfQKxndHfMuzuF4="},"public":{"type":"Buffer","data":"dywURLEduMO+2BRsB/k9/hmRQGHalzKJO45P05h7v3I="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"6NMS8Axnw8uvT0uVJl6GXVa73FKTK6NUHlNvcQ4F7no="},"public":{"type":"Buffer","data":"SnAQ6mTSWiKQ8x4Wa9IC99GTdhtPK4r4byxcy1+/ImY="}},"signature":{"type":"Buffer","data":"BN2+jfq3gsM/4mUtDAg8ja9RfwouVrOXEc2zV4gwptGqz847UIrDRhJWyGqL22n87QluuWq4FV/6eu2DkwTXBw=="},"keyId":1},"registrationId":174,"advSecretKey":"KvO7pg+Tra17jzkdXkzB8y23IXAW/SCNfyfwECjblps=","processedHistoryMessages":[],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"registered":true,"pairingCode":"C9VEEMW2","me":{"id":"923138850587:16@s.whatsapp.net","lid":"77005206868206:16@lid","name":"𝐌 𝐇𝐀𝐒𝐒𝐀𝐍 𝐊𝐇𝐀𝐍"},"account":{"details":"CInLz+ECEIiAitUGGAEgACgA","accountSignatureKey":"uqWuJ9kOUm9Cv2OVDfQhBpxbdlurxH7FF3hW2vsUYmo=","accountSignature":"XjsW0HevPsgBSgF2HsrKbdYBGTUaRnKzT5H3evukWo2yV2a7iIHMN/4kV7GUlxg3HUu4Q0YpqD0anvbtCKWoBw==","deviceSignature":"JIpL67w8xXQ50Owgk8S6ENjtywAV6FHDlXhv54KuTcJQweMIeQaHDAht1B541ylnJBghrR57oX9K8Lx787v5Aw=="},"signalIdentities":[{"identifier":{"name":"923138850587:16@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BbqlrifZDlJvQr9jlQ30IQacW3Zbq8R+xRd4Vtr7FGJq"}}],"platform":"android","routingInfo":{"type":"Buffer","data":"CA0ICAgF"},"lastAccountSyncTimestamp":1789034516,"myAppStateKeyId":"AAAAAMvI"}';
+global.BOT_PREFIX = '*';
+global.owners = ['923138850587@lid', '923159950890@lid'];
+global.dev = ['923138850587@s.whatsapp.net','923138850587@lid'];
+global.menuImage = 'https://ibb.co/q3GmrRz9';
+global.ownerName = 'M-HASSAN🇵🇰';
