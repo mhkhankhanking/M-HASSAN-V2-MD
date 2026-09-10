@@ -1,7 +1,7 @@
 {
-  "name": "Xlicon",
+  "name": "M-HASSAN",
   "version": "1.0.0",
-  "description": "Xlicon WhatsApp Bot",
+  "description": "M-HASSAN WhatsApp Bot",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -10,13 +10,13 @@
     "restart": "pm2 restart Xlicon",
     "bot": "node index.js"
   },
-  "author": "Xlicon",
+  "author": "M-HASSAN",
   "license": "MIT",
   "private": true,
   "keywords": [
     "whatsapp-bot",
     "baileys",
-    "xlicon"
+    "M-HASSAN"
   ],
   "dependencies": {
     "@hapi/boom": "^10.0.1",
